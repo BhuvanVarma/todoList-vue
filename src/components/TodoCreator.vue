@@ -1,13 +1,13 @@
+<script setup>
+
+</script>
+
 <template>
     <div class="input-wrap">
         <input type="text">
         <button>Create</button>
     </div>
 </template>
-
-<script setup>
-
-</script>
 
 <style lang="scss" scoped>
 .input-wrap {
